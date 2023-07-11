@@ -2,7 +2,7 @@ package exercise_class;
 
 import java.util.Scanner;
 
-public class Review3_Method_practice {
+public class Review8_Method_practice {
 
 	public static int calculator(String name, int num1, int num2) {
 		System.out.println("계산중 입니다.");

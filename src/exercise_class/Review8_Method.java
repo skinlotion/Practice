@@ -1,6 +1,6 @@
 package exercise_class;
 
-public class Review2_Method {
+public class Review8_Method {
 
 	
 	

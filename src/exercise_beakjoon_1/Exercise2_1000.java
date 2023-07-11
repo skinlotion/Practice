@@ -14,10 +14,16 @@ public class Exercise2_1000 {
 		 */
 		
 		Scanner scanner = new Scanner(System.in);
-		int A = 0;
-		int B = 0;
+		System.out.print("첫 번째 숫자를 입력하세요 : ");
+		int A = scanner.nextInt();
+		System.out.print("두 번째 숫자를 입력하세요 : ");
+		int B = scanner.nextInt();
 		
-		System.out.println("첫 번째 숫자를 입력하세요 : ");
+		int result = A + B;
+		System.out.println(result);
+		
+		
+		
 		
 		
 	}
